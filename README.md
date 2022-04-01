@@ -1,4 +1,4 @@
-d- 👋 Hi, I’m @kaif-to-life
+-👋 Hi, I’m @kaif-to-life
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
